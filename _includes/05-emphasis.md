@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Fast learner and very **ambitious**_
+_Love communicating with people and also a very social guy_
